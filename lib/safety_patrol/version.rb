@@ -1,0 +1,3 @@
+module SafetyPatrol
+  VERSION = "0.5.0"
+end
