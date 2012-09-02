@@ -4,8 +4,8 @@ require File.expand_path('../lib/safety_patrol/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["Thomas Brewer"]
   gem.email         = ["tom@21purple.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Simple framework agnostic Authorization gem}
+  gem.summary       = gem.description
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($\)
